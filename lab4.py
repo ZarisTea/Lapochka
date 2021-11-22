@@ -1,5 +1,5 @@
 # ООП
-
+# добавил комментарий (Марк)
 class Cars():
     def __init__(self):
         self.lst = []
