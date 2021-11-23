@@ -7,7 +7,7 @@ class Cars():
         
     def add(self):
         vvod = ''
-        while vvod != "SiemenOFF":
+        while vvod != "SiemenOFF": #Pops # THIS IS TANYAAAAAA
                 print("Введите цвет, объем двигателя и производителя автомобиля через пробел(если машин больше нет, пишите команду 'стоп':")
                 avt = input().split()
                 if avt != []:
