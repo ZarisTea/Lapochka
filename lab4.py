@@ -1,12 +1,11 @@
 # ООП
-# добавил комментарий (Марк)
 class Cars():
     def __init__(self):
         self.lst = []
         
         
     def add(self):
-        vvod = ''
+        vvod = 'KATYAAAAa aaaaaaaa aaaaaaaaaaaaaa aaaaaa87979870980'
         while vvod != "SiemenOFF": #Pops # THIS IS TANYAAAAAA
                 print("Введите цвет, объем двигателя и производителя автомобиля через пробел(если машин больше нет, пишите команду 'стоп':")
                 avt = input().split()
@@ -17,7 +16,7 @@ class Cars():
                 if vvod != 'стоп':
                     self.lst.append(avt)
         return True
-          
+# tkhdlfjsdg;rkterlglfipgotiw4o1i5986296805605965 Hello          
           
     def edit(self):
         n = len(self.lst)   
